@@ -380,7 +380,7 @@ public class Settings extends Config {
             "Should download urls be shortened?",
              " - Links are less secure as they could be brute forced"
         })
-        public boolean SHORTEN_URLS = false;
+     //   public boolean SHORTEN_URLS = false;
         @Comment({
                 "The web interface for clipboards",
                 " - All schematics are anonymous and private",
